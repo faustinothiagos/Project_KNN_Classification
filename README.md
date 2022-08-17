@@ -23,5 +23,7 @@ onde $x$ é o vetor de features dos dados a serem previstos, $D$ é o conjunto d
 
 A classe com maior probabilidade é aquela que será prevista.
 </b><br></label></div>
+
+- [Acessar a documentação do Scikit-learn](https://scikit-learn.org/stable/modules/neighbors.html)
     
 Uso do modelo KNN de classificação em Python para analisar um DataSet do molusco abalone.

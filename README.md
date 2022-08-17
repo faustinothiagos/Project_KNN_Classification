@@ -19,8 +19,7 @@ KNN é um dos algoritmos mais simples em aprendizagem de máquina. A famosa fras
 $$ p(y = c|x, D, k) = \frac{1}{k} \sum_{i \in N_k(x, D)} I(y_i = c) $$
       
 onde $x$ é o vetor de features dos dados a serem previstos, $D$ é o conjunto de dados de treinamento, k é o número de vizinhos a serem avaliados em $D$, $N_k (x, D) $são os índices dos k vizinhos mais próximo.
-
-
+    
 A classe com maior probabilidade é aquela que será prevista.
 </b><br></label></div>
 

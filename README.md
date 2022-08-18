@@ -1,7 +1,7 @@
 # KNN_Classification
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/97195240/185261921-1814e228-71ff-49d7-a789-b764720da0ab.png" width="300px" />
+<img src="https://user-images.githubusercontent.com/97195240/185261921-1814e228-71ff-49d7-a789-b764720da0ab.png" width="400px" />
 </div>
 
 <a id="section_knn"></a>

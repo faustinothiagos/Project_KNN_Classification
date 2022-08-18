@@ -6,7 +6,7 @@
 
 <a id="section_knn"></a>
 
-## Marco teórico
+## Marco teórico:
 
 ##  K-Nearest Neighbor Classification
 
@@ -18,10 +18,20 @@ KNN é um dos algoritmos mais simples em aprendizagem de máquina. A famosa fras
       
 $$ p(y = c|x, D, k) = \frac{1}{k} \sum_{i \in N_k(x, D)} I(y_i = c) $$
       
-onde $x$ é o vetor de features dos dados a serem previstos, $D$ é o conjunto de dados de treinamento, k é o número de vizinhos a serem avaliados em $D$, $N_k (x, D) $são os índices dos k vizinhos mais próximo.
+onde $x$ é o vetor de features dos dados a serem previstos, $D$ é o conjunto de dados de treinamento, k é o número de vizinhos a serem avaliados em $D$, N_k (x, D) são os índices dos k vizinhos mais próximo.
     
 A classe com maior probabilidade é aquela que será prevista.
 </b><br></label></div>
+
+### As etapas do KNN:
+
+- Memorizar a localização de cada observação no conjunto de dados de treinos, de acordo com os valores de suas features.
+- Quando recebe novos dados, também os coloca no espaço.
+- Entre os K vizinhos mais próximos(K é um hiperparâmentro do modelo)
+- Cada um deles contribui com um "voto" para a classe que pertence.
+- A previsão para os novos dados é determinada pela classea a que pertence.
+
+### Acesso r
 
 - [Acessar a documentação do Scikit-learn](https://scikit-learn.org/stable/modules/neighbors.html)
     

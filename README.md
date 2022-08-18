@@ -31,7 +31,7 @@ A classe com maior probabilidade é aquela que será prevista.
 - Cada um deles contribui com um "voto" para a classe que pertence.
 - A previsão para os novos dados é determinada pela classea a que pertence.
 
-### Acesso r
+### Acesso rápido:
 
 - [Acessar a documentação do Scikit-learn](https://scikit-learn.org/stable/modules/neighbors.html)
     

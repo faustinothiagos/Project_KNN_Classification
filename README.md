@@ -34,5 +34,7 @@ A classe com maior probabilidade é aquela que será prevista.
 ### Acesso rápido:
 
 - [Acessar a documentação do Scikit-learn](https://scikit-learn.org/stable/modules/neighbors.html)
+- [Acesso rápido ao DataSet](https://github.com/faustinothiagos/KNN_Classification/tree/main/DataSet) 
+- [Acesso rápido ao Jupyter Notebook](https://github.com/faustinothiagos/KNN_Classification/tree/main/Code)
     
 Uso do modelo KNN de classificação em Python para analisar um DataSet do molusco abalone.
